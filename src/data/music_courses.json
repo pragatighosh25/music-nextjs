@@ -1,0 +1,85 @@
+{
+  "courses": [
+  {
+    "id": 1,
+    "title": "Guitar Fundamentals",
+    "slug": "guitar-fundamentals",
+    "instructor": "John Doe",
+    "price": 99.99,
+    "description": "Learn the basics of guitar playing including chords, strumming patterns, and simple melodies to kickstart your musical journey.",
+    "isFeatured": true,
+    "image": "/images/guitar.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Digital Painting for Beginners",
+    "slug": "digital-painting-for-beginners",
+    "instructor": "Ava Thompson",
+    "price": 89.0,
+    "description": "Explore the world of digital art using tools like Procreate and Photoshop. Learn brushes, lighting, and color composition.",
+    "isFeatured": false,
+    "image": "/images/digital-painting.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Piano Masterclass",
+    "slug": "piano-masterclass",
+    "instructor": "Michael Lee",
+    "price": 129.5,
+    "description": "Take your piano skills to the next level with advanced techniques, music theory, and performance tips.",
+    "isFeatured": true,
+    "image": "/images/piano.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Watercolor Landscapes",
+    "slug": "watercolor-landscapes",
+    "instructor": "Sophia Martinez",
+    "price": 59.99,
+    "description": "Master the art of watercolor painting by learning techniques to capture skies, trees, and serene landscapes.",
+    "isFeatured": false,
+    "image": "/images/watercolor.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Advanced Music Production",
+    "slug": "advanced-music-production",
+    "instructor": "Ethan Brown",
+    "price": 149.99,
+    "description": "Dive into advanced mixing, mastering, and sound design techniques using Ableton and Logic Pro.",
+    "isFeatured": true,
+    "image": "/images/music-production.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Sketching and Figure Drawing",
+    "slug": "sketching-and-figure-drawing",
+    "instructor": "Olivia Chen",
+    "price": 74.99,
+    "description": "Learn sketching fundamentals and figure proportions using pencil and charcoal to create expressive human forms.",
+    "isFeatured": false,
+    "image": "/images/sketching.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Violin for Beginners",
+    "slug": "violin-for-beginners",
+    "instructor": "Liam Carter",
+    "price": 89.5,
+    "description": "Start playing the violin from scratch. Learn posture, bowing techniques, and your first melodies.",
+    "isFeatured": false,
+    "image": "/images/violin.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Abstract Art Exploration",
+    "slug": "abstract-art-exploration",
+    "instructor": "Emma Wilson",
+    "price": 79.99,
+    "description": "Express yourself freely with colors and textures. Understand abstract art theory and experiment with mixed media.",
+    "isFeatured": true,
+    "image": "/images/abstract-art.jpg"
+  }
+]
+
+}
